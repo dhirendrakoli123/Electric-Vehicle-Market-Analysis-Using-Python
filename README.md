@@ -20,5 +20,29 @@ This project delves into the world of the electric vehicles (EV) market by analy
 
 ![3](https://i.imgur.com/Deh6G0P.png)
 
+**4)Top 10 Popular EV Makes:**
+
+![4](https://i.imgur.com/5apTGKx.png)
+
+**5)Top Models in Top 3 Makes by EV Registrations:**
+
+![5](https://i.imgur.com/U3kG3cZ.png)
+
+**6)Distribution of Electric Vehicle Ranges:**
+
+![6](https://i.imgur.com/XdAfdru.png)
+
+**7)Average Electric Range by Model Year:**
+
+![7](https://i.imgur.com/235NCqf.png)
+
+**8)Top 10 Models by Average Electric Range in Top Makes:**
+
+![8](https://i.imgur.com/mrts6gh.png)
+
+**9)Current & Estimated EV Market:**
+
+![9](https://i.imgur.com/tbKXuOG.png)
+
 
 
