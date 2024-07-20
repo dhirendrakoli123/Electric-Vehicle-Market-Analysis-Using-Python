@@ -8,3 +8,6 @@ This project delves into the world of the electric vehicles (EV) market by analy
 **Python (Data analysis and visualization) Libraries:** Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization)
 
 ## Analysis
+**1)EV Adoption Over Time:**
+
+![1](https://i.imgur.com/WqF9KYN.png)
