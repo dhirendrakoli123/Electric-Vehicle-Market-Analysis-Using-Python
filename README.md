@@ -16,3 +16,9 @@ This project delves into the world of the electric vehicles (EV) market by analy
 
 ![2](https://i.imgur.com/7oHjee7.png)
 
+**3)Distribution of Electric Vehicle Types:**
+
+![3](https://i.imgur.com/Deh6G0P.png)
+
+
+
