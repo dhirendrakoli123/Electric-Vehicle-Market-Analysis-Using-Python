@@ -11,3 +11,8 @@ This project delves into the world of the electric vehicles (EV) market by analy
 **1)EV Adoption Over Time:**
 
 ![1](https://i.imgur.com/WqF9KYN.png)
+
+**2)Top Cities in Top Counties by EV Registrations:**
+
+![2](https://i.imgur.com/7oHjee7.png)
+
